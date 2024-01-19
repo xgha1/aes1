@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_openapi_operation">
+    <sys_openapi_operation action="INSERT_OR_UPDATE">
+        <complex_object_ids>9f83bf6647cf3510789e057d826d4340,d383f7a647477510789e057d826d436d</complex_object_ids>
+        <deprecated>false</deprecated>
+        <http_method>get</http_method>
+        <name>Find salary by UID</name>
+        <openapi display_value="SalaryService - 1.0.2">1b83bf6647cf3510789e057d826d433e</openapi>
+        <path>/table/{userId}</path>
+        <serialized_operation>{"fName":"Find salary by UID","fOperationId":"getUserId","fDescription":"Returns a single user","fPath":"/table/{userId}","fHttpMethod":"GET","fDeprecated":false,"fResponses":[{"fStatusCode":"200","fDescription":"successful operation","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"output9161420562","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"object","fProperties":[{"fName":"userId","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"integer","fProperties":[],"fOneOf":[],"fFormat":"int64","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"integer"},{"fName":"description","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"string","fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"string"},{"fName":"amount","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"integer","fProperties":[],"fOneOf":[],"fFormat":"int64","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"integer"}],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]},{"fStatusCode":"400","fDescription":"Invalid ID supplied","fContents":[],"fHeaders":[]},{"fStatusCode":"404","fDescription":"Salary not found","fContents":[],"fHeaders":[]}],"fParameters":[{"fName":"userId","fDescription":"ID of user to return","fRequired":true,"fDeprecated":false,"fAllowEmptyValue":false,"fAllowReserved":false,"fParameterType":"path","fExplode":false,"fStyle":"simple","fContents":[{"fSchema":{"fName":"userId5246645541","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"integer","fProperties":[],"fOneOf":[],"fFormat":"int64","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"integer"}}]}]}</serialized_operation>
+        <sys_class_name>sys_openapi_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 23:33:48</sys_created_on>
+        <sys_id>df83f7a647477510789e057d826d436e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Find salary by UID</sys_name>
+        <sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope>
+        <sys_update_name>sys_openapi_operation_df83f7a647477510789e057d826d436e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 23:33:48</sys_updated_on>
+    </sys_openapi_operation>
+</record_update>

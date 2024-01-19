@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="DELETE">
+        <label/>
+        <name>output4678566158</name>
+        <namespace>SalaryService100</namespace>
+        <scope_name>758f0dc0474b3110789e057d826d43e9</scope_name>
+        <serialized_content>{"SalaryService100:output4678566158":{"amount":"Integer","description":"String","userId":"Integer"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 16:14:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>275549d247c7f110789e057d826d43f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>output4678566158</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope>
+        <sys_update_name>sys_complex_object_275549d247c7f110789e057d826d43f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 16:14:17</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</application>
+        <file_path/>
+        <instance_id>1dca40e8db5732c04c1ff70fbf961996</instance_id>
+        <instance_name>dev38306</instance_name>
+        <name>sys_complex_object_275549d247c7f110789e057d826d43f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object"><sys_complex_object action="INSERT_OR_UPDATE"><label/><name>output4678566158</name><namespace>SalaryService100</namespace><scope_name>758f0dc0474b3110789e057d826d43e9</scope_name><serialized_content>{"SalaryService100:output4678566158":{"amount":"Integer","description":"String","userId":"Integer"}}</serialized_content><sys_class_name>sys_complex_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-13 16:14:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>275549d247c7f110789e057d826d43f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>output4678566158</sys_name><sys_overrides/><sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package><sys_policy/><sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope><sys_update_name>sys_complex_object_275549d247c7f110789e057d826d43f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-13 16:14:17</sys_updated_on><type>complex_object_schema</type></sys_complex_object></record_update>]]></payload>
+        <payload_hash>-1431644311</payload_hash>
+        <record_name>output4678566158</record_name>
+        <reverted_from/>
+        <source>398f0dc0474b3110789e057d826d43eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 16:14:17</sys_created_on>
+        <sys_id>af5549d247c7f110789e057d826d43f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c63f51e930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 16:14:17</sys_updated_on>
+        <type>Complex Object</type>
+        <update_guid>e35549d22bc7f11078d07446182268f3</update_guid>
+        <update_guid_history>e35549d22bc7f11078d07446182268f3:-1431644311</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 12:58:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_complex_object">sys_complex_object</sys_db_object>
+        <sys_id>096b286f97cf4f2381014ed353a90f61</sys_id>
+        <sys_metadata>275549d247c7f110789e057d826d43f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>output4678566158</sys_name>
+        <sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope>
+        <sys_scope_delete display_value="">568ef007ebd04534885e34bbeef346a4</sys_scope_delete>
+        <sys_update_name>sys_complex_object_275549d247c7f110789e057d826d43f2</sys_update_name>
+        <sys_update_version display_value="sys_complex_object_275549d247c7f110789e057d826d43f2">af5549d247c7f110789e057d826d43f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 12:58:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_962293_gspoke1.GSpoke1_CAlias</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>GSpoke1-CAlias</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 17:33:38</sys_created_on>
+        <sys_id>b634d1cc474b3110789e057d826d4384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_962293_gspoke1.GSpoke1_CAlias</sys_name>
+        <sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope>
+        <sys_update_name>sys_alias_b634d1cc474b3110789e057d826d4384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 17:33:38</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</application>
+        <file_path/>
+        <instance_id>1dca40e8db5732c04c1ff70fbf961996</instance_id>
+        <instance_name>dev38306</instance_name>
+        <name>sys_alias_b634d1cc474b3110789e057d826d4384</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_962293_gspoke1.GSpoke1_CAlias</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>GSpoke1-CAlias</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 17:33:38</sys_created_on><sys_id>b634d1cc474b3110789e057d826d4384</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_962293_gspoke1.GSpoke1_CAlias</sys_name><sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package><sys_policy/><sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope><sys_update_name>sys_alias_b634d1cc474b3110789e057d826d4384</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 17:33:38</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-1592046560</payload_hash>
+        <record_name>x_962293_gspoke1.GSpoke1_CAlias</record_name>
+        <reverted_from/>
+        <source>398f0dc0474b3110789e057d826d43eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 17:33:38</sys_created_on>
+        <sys_id>956495cc474b3110789e057d826d43e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c40313e220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 17:33:38</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>d96495cce64b3110d954c3a990f154e8</update_guid>
+        <update_guid_history>d96495cce64b3110d954c3a990f154e8:-1592046560</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 13:47:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>27c00211e79d4c95824d33cb18a51e31</sys_id>
+        <sys_metadata>b634d1cc474b3110789e057d826d4384</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_962293_gspoke1.GSpoke1_CAlias</sys_name>
+        <sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope>
+        <sys_scope_delete display_value="">568ef007ebd04534885e34bbeef346a4</sys_scope_delete>
+        <sys_update_name>sys_alias_b634d1cc474b3110789e057d826d4384</sys_update_name>
+        <sys_update_version display_value="sys_alias_b634d1cc474b3110789e057d826d4384">956495cc474b3110789e057d826d43e9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 13:47:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

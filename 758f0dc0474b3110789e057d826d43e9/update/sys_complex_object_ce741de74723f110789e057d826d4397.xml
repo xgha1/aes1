@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD0e741de7cf23f110ea22ebe7c4cb8397</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>758f0dc0474b3110789e057d826d43e9</scope_name>
+        <serialized_content>{"FlowDesigner:FD0e741de7cf23f110ea22ebe7c4cb8397":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD0e741de7cf23f110ea22ebe7c4cb8397.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"max_rows\":null,\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Domains\",\"mandatory\":\"true\",\"child_name\":\"variable_child0\",\"uiUniqueId\":\"1c772a18-b914-409d-9c2e-133dadbab160\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD0e741de7cf23f110ea22ebe7c4cb8397\",\"child_label\":\"variable_child0\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"b9b8cfb7-b387-4f0f-a44a-6d6309c1dbf6\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-11 11:04:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ce741de74723f110789e057d826d4397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD0e741de7cf23f110ea22ebe7c4cb8397</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope>
+        <sys_update_name>sys_complex_object_ce741de74723f110789e057d826d4397</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-11 11:04:04</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

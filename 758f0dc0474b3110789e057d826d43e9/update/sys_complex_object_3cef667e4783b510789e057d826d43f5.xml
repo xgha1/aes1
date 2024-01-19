@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDf4ef667e1783b51040db55ca5987c5f5</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>758f0dc0474b3110789e057d826d43e9</scope_name>
+        <serialized_content>{"FlowDesigner:FDf4ef667e1783b51040db55ca5987c5f5":{"amount":"Integer","amount.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":null,\"label\":\"amount\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"description":"String","description.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"description\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"userId":"Integer","userId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":null,\"label\":\"userId\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"}},"FlowDesigner:FDf4ef667e1783b51040db55ca5987c5f5.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":null,\"label\":\"output\",\"mandatory\":\"false\",\"isDynamicOutput\":\"true\",\"uiUniqueId\":\"c5a0dcbe-3c76-445b-8d02-babad34719b2\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDf4ef667e1783b51040db55ca5987c5f5\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 13:16:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3cef667e4783b510789e057d826d43f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDf4ef667e1783b51040db55ca5987c5f5</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope>
+        <sys_update_name>sys_complex_object_3cef667e4783b510789e057d826d43f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 13:16:39</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

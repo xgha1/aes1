@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_openapi_operation">
+    <sys_openapi_operation action="DELETE">
+        <complex_object_ids>eb55815247c7f110789e057d826d437c,275549d247c7f110789e057d826d43f2</complex_object_ids>
+        <deprecated>false</deprecated>
+        <http_method>get</http_method>
+        <name>Find by ID</name>
+        <openapi display_value="SalaryService - 1.0.0">6755815247c7f110789e057d826d437a</openapi>
+        <path>/table/{userId}</path>
+        <serialized_operation>{"fName":"Find by ID","fOperationId":"getUserId","fDescription":"Returns a single user","fPath":"/table/{userId}","fHttpMethod":"GET","fDeprecated":false,"fResponses":[{"fStatusCode":"200","fDescription":"successful operation","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"output4678566158","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"object","fProperties":[{"fName":"userId","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"integer","fProperties":[],"fOneOf":[],"fFormat":"int64","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"integer"},{"fName":"description","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"string","fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"string"},{"fName":"amount","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"integer","fProperties":[],"fOneOf":[],"fFormat":"int64","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"integer"}],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]},{"fStatusCode":"400","fDescription":"Invalid ID supplied","fContents":[],"fHeaders":[]},{"fStatusCode":"404","fDescription":"Salary not found","fContents":[],"fHeaders":[]}],"fParameters":[{"fName":"userId","fDescription":"ID of user to return","fRequired":true,"fDeprecated":false,"fAllowEmptyValue":false,"fAllowReserved":false,"fParameterType":"path","fExplode":false,"fStyle":"simple","fContents":[{"fSchema":{"fName":"userId3972542713","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"integer","fProperties":[],"fOneOf":[],"fFormat":"int64","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"integer"}}]}]}</serialized_operation>
+        <sys_class_name>sys_openapi_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 16:14:17</sys_created_on>
+        <sys_id>275549d247c7f110789e057d826d43f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Find by ID</sys_name>
+        <sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope>
+        <sys_update_name>sys_openapi_operation_275549d247c7f110789e057d826d43f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 16:14:17</sys_updated_on>
+    </sys_openapi_operation>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</application>
+        <file_path/>
+        <instance_id>1dca40e8db5732c04c1ff70fbf961996</instance_id>
+        <instance_name>dev38306</instance_name>
+        <name>sys_openapi_operation_275549d247c7f110789e057d826d43f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_openapi_operation"><sys_openapi_operation action="INSERT_OR_UPDATE"><complex_object_ids>eb55815247c7f110789e057d826d437c,275549d247c7f110789e057d826d43f2</complex_object_ids><deprecated>false</deprecated><http_method>get</http_method><name>Find by ID</name><openapi display_value="SalaryService - 1.0.0">6755815247c7f110789e057d826d437a</openapi><path>/table/{userId}</path><serialized_operation>{"fName":"Find by ID","fOperationId":"getUserId","fDescription":"Returns a single user","fPath":"/table/{userId}","fHttpMethod":"GET","fDeprecated":false,"fResponses":[{"fStatusCode":"200","fDescription":"successful operation","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"output4678566158","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"object","fProperties":[{"fName":"userId","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"integer","fProperties":[],"fOneOf":[],"fFormat":"int64","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"integer"},{"fName":"description","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"string","fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"string"},{"fName":"amount","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"integer","fProperties":[],"fOneOf":[],"fFormat":"int64","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"integer"}],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]},{"fStatusCode":"400","fDescription":"Invalid ID supplied","fContents":[],"fHeaders":[]},{"fStatusCode":"404","fDescription":"Salary not found","fContents":[],"fHeaders":[]}],"fParameters":[{"fName":"userId","fDescription":"ID of user to return","fRequired":true,"fDeprecated":false,"fAllowEmptyValue":false,"fAllowReserved":false,"fParameterType":"path","fExplode":false,"fStyle":"simple","fContents":[{"fSchema":{"fName":"userId3972542713","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"integer","fProperties":[],"fOneOf":[],"fFormat":"int64","fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"integer"}}]}]}</serialized_operation><sys_class_name>sys_openapi_operation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-13 16:14:17</sys_created_on><sys_id>275549d247c7f110789e057d826d43f4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Find by ID</sys_name><sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package><sys_policy/><sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope><sys_update_name>sys_openapi_operation_275549d247c7f110789e057d826d43f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-13 16:14:17</sys_updated_on></sys_openapi_operation></record_update>]]></payload>
+        <payload_hash>667448144</payload_hash>
+        <record_name>Find by ID</record_name>
+        <reverted_from/>
+        <source>398f0dc0474b3110789e057d826d43eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 16:14:17</sys_created_on>
+        <sys_id>275549d247c7f110789e057d826d43f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c63f51eb00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 16:14:17</sys_updated_on>
+        <type>OpenAPI  Operation</type>
+        <update_guid>6b5549d2b7c7f1102c96482bf14165f5</update_guid>
+        <update_guid_history>6b5549d2b7c7f1102c96482bf14165f5:667448144</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 12:58:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_openapi_operation">sys_openapi_operation</sys_db_object>
+        <sys_id>528e22c975734c82abd4178cf6f298d9</sys_id>
+        <sys_metadata>275549d247c7f110789e057d826d43f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Find by ID</sys_name>
+        <sys_package display_value="GSpoke1" source="x_962293_gspoke1">758f0dc0474b3110789e057d826d43e9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GSpoke1">758f0dc0474b3110789e057d826d43e9</sys_scope>
+        <sys_scope_delete display_value="">568ef007ebd04534885e34bbeef346a4</sys_scope_delete>
+        <sys_update_name>sys_openapi_operation_275549d247c7f110789e057d826d43f4</sys_update_name>
+        <sys_update_version display_value="sys_openapi_operation_275549d247c7f110789e057d826d43f4">275549d247c7f110789e057d826d43f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 12:58:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
